@@ -1,7 +1,7 @@
 import cv2
 import operator
 import numpy as np
-
+#
 MIN_CONTOUR_AREA = 800.0
 MAX_CONTOUR_AREA = 4500.0
 RESIZED_IMAGE_WIDTH = 20
